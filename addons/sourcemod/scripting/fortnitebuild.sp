@@ -3,11 +3,11 @@
 #include <sdkhooks>
 
 #pragma newdecls required
-#define NAME "Fortnite Build"
-#define AUTHOR "Diogoonair"
-#define DESCRIPTION "Build Fortnite constructions"
+#define NAME "Galaxy Fortnite"
+#define AUTHOR "NeJ"
+#define DESCRIPTION "Fortnite Yapıları Oluştur"
 #define VERSION "1.5"
-#define URL "http://steamcommunity.com/id/diogo218dv"
+#define URL "https://steamcommunity.com/groups/galaxyot"
 
 char g_sPropsPath[PLATFORM_MAX_PATH];
 char g_sShowProp[MAXPLAYERS + 1][PLATFORM_MAX_PATH];
